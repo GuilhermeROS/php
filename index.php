@@ -1,7 +1,7 @@
 <?php
 
-echo "Olá Mundo!"
+echo "Olá Mundo!";
 
-echo "Como está o seu dia?"  
+echo "Como está o seu dia?";  
   
 ?>
